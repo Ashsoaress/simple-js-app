@@ -17,9 +17,9 @@ let pokemonRepository = (function(){
     })();
  
     pokemonRepository.add ({
-       name: 'Bulbasaur',
+       name: 'pikachu',
        height: 7,
-       types: ['grass', 'poison']
+       types: ['electric', 'shock']
     });
  
     pokemonRepository.add ({
