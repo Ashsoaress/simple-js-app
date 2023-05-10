@@ -99,7 +99,7 @@ let pokemonRepository = (function () {
       let modal = document.querySelector(".modal");
 
       modal.classList.add("modal-is-visible");
-      modal.classList.remove("modal");
+    
 
       let buttonContainer = document.querySelector("#button-container");
 
